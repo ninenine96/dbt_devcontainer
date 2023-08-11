@@ -12,5 +12,5 @@ profile_name:
             role: <role>
             database: <database>
             warehouse: <warehouse>
-            # create a seperate schema for your work, don't override each other's models
+            # create a separate schema for your work, don't override each other's models
             schema: <schema>
