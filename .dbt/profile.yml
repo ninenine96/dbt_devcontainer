@@ -1,0 +1,16 @@
+# name your profile
+profile_name:
+    target: default
+    outputs:
+        default:
+            type: snowflake
+            account: oh90776.central-india.azure
+
+            # User/password auth
+            user: <username>
+            password: <password>
+            role: <role>
+            database: <database>
+            warehouse: <warehouse>
+            # create a seperate schema for your work, don't override each other's models
+            schema: <schema>
