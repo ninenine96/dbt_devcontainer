@@ -14,4 +14,4 @@
 5. Edit the profile in .dbt/profile.yml and add your credentials.
 6. Run the following command
 `cp .dbt/profile.yml /home/vscode/.dbt/profile.yml`
-7. That's all.
+7. You can create a dbt_project.yml file and start creating your models.
